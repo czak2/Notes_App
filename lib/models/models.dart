@@ -58,8 +58,3 @@ class Note {
   }
 }
 
-  //  id INTEGER PRIMARY KEY AUTOINCREMENT,
-  //     pin BOOLEAN NOT NULL,
-  //     title TEXT NOT NULL,
-  //     content TEXT NOT NULL,
-  //     createdTime TEXT NOT NULL
